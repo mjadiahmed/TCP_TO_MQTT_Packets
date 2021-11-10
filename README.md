@@ -1,5 +1,6 @@
 # TCP_TO_MQTT_Packets
 #Created By Ahmed MJADI 
+#Send TCP Packet to MQTT brocker using Hercules Setup utilities on windows
 
 																							CLIENT ID					
 CONNECT PACKET									CONN	RL	PLEN		M	Q	T	T	LVL	FL	KA		CIDLEN		A	H	M	E	D	A
