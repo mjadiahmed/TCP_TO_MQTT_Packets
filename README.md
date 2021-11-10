@@ -17,3 +17,11 @@ SUBSCRIBE PACKET									SUB	RL	PKTID		TPLEN		n	e	x	t	r	o	n	i	QS
 
 
 
+
+
+
+CLOUD MQTT																								CLIENT ID								USERNAME										PASSWORD											
+"CONNECT PACKET
+ WITH AUTH"								CONN	RL	PLEN		M	Q	I	s	d	p	LVL	FL	KA		CIDLEN		A	B	C	D	E	F	ULEN		d	x	x	k	g	k	p	p	PWLEN		q	A	U	Z	B	d	a	S	I	U	L	x
+								10	2C	00	06	4D	51	49	73	64	70	03	C2	00	3C	00	06	41	42	43	44	45	46	00	08	64	78	78	6B	67	6B	70	70	00	0C	71	41	55	5A	42	64	61	53	49	55	4C	78
+![image](https://user-images.githubusercontent.com/92577300/141105406-856c6394-6185-4335-881c-4493e3f6c45d.png)
